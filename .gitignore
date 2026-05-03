@@ -1,0 +1,23 @@
+# Python Virtual environments & Cache
+.venv/
+.uv-python/
+.uv-cache/
+.python-version
+__pycache__/
+
+# IDEs
+.vscode/
+.idea/
+
+# Large data files
+*.csv
+*.xlsx
+*.pdf
+
+# Output folders
+outputs/
+.tempmediaStorage/
+
+# OS generated files
+.DS_Store
+Thumbs.db
