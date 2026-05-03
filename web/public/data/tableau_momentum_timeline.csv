@@ -1,0 +1,281 @@
+match_id,team,opponent,period,minute_bin,metric_name,metric_value,metric_unit,zone,channel,interpretation_label,insight_text,dashboard_section,recommended_chart_type,priority_level
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,0,attacking_third_actions,15,count,,,high,FCK produced 15.00 attacking third actions in minute bin 0.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,0,box_entries,12,count,,,high,FCK produced 12.00 box entries in minute bin 0.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,0,shots,4,count,,,high,FCK produced 4.00 shots in minute bin 0.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,0,danger_entries,19,count,,,high,FCK produced 19.00 danger entries in minute bin 0.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,0,threat,1.8884,index,,,dominant,FCK produced 1.89 threat in minute bin 0.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,0,final_third_entries,13,count,,,high,FCK produced 13.00 final third entries in minute bin 0.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,0,attacking_third_actions,18,count,,,high,FCM produced 18.00 attacking third actions in minute bin 0.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,0,box_entries,9,count,,,high,FCM produced 9.00 box entries in minute bin 0.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,0,shots,0,count,,,low,FCM produced 0.00 shots in minute bin 0.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,0,danger_entries,13,count,,,high,FCM produced 13.00 danger entries in minute bin 0.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,0,threat,0.84,index,,,limited,FCM produced 0.84 threat in minute bin 0.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,0,final_third_entries,8,count,,,high,FCM produced 8.00 final third entries in minute bin 0.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,5,attacking_third_actions,23,count,,,high,FCM produced 23.00 attacking third actions in minute bin 5.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,5,box_entries,4,count,,,high,FCM produced 4.00 box entries in minute bin 5.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,5,shots,0,count,,,low,FCM produced 0.00 shots in minute bin 5.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,5,danger_entries,9,count,,,high,FCM produced 9.00 danger entries in minute bin 5.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,5,threat,0.89,index,,,balanced,FCM produced 0.89 threat in minute bin 5.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,5,final_third_entries,9,count,,,high,FCM produced 9.00 final third entries in minute bin 5.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,5,attacking_third_actions,15,count,,,high,FCK produced 15.00 attacking third actions in minute bin 5.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,5,box_entries,2,count,,,moderate,FCK produced 2.00 box entries in minute bin 5.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,5,shots,0,count,,,low,FCK produced 0.00 shots in minute bin 5.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,5,danger_entries,18,count,,,high,FCK produced 18.00 danger entries in minute bin 5.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,5,threat,1.14,index,,,edge,FCK produced 1.14 threat in minute bin 5.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,5,final_third_entries,14,count,,,high,FCK produced 14.00 final third entries in minute bin 5.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,10,attacking_third_actions,19,count,,,high,FCK produced 19.00 attacking third actions in minute bin 10.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,10,box_entries,2,count,,,moderate,FCK produced 2.00 box entries in minute bin 10.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,10,shots,0,count,,,low,FCK produced 0.00 shots in minute bin 10.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,10,danger_entries,14,count,,,high,FCK produced 14.00 danger entries in minute bin 10.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,10,threat,0.84,index,,,balanced,FCK produced 0.84 threat in minute bin 10.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,10,final_third_entries,8,count,,,high,FCK produced 8.00 final third entries in minute bin 10.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,10,attacking_third_actions,21,count,,,high,FCM produced 21.00 attacking third actions in minute bin 10.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,10,box_entries,7,count,,,high,FCM produced 7.00 box entries in minute bin 10.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,10,shots,0,count,,,low,FCM produced 0.00 shots in minute bin 10.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,10,danger_entries,10,count,,,high,FCM produced 10.00 danger entries in minute bin 10.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,10,threat,0.75,index,,,balanced,FCM produced 0.75 threat in minute bin 10.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,10,final_third_entries,5,count,,,high,FCM produced 5.00 final third entries in minute bin 10.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,15,attacking_third_actions,16,count,,,high,FCM produced 16.00 attacking third actions in minute bin 15.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,15,box_entries,5,count,,,high,FCM produced 5.00 box entries in minute bin 15.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,15,shots,2,count,,,moderate,FCM produced 2.00 shots in minute bin 15.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,15,danger_entries,5,count,,,high,FCM produced 5.00 danger entries in minute bin 15.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,15,threat,0.3092,index,,,limited,FCM produced 0.31 threat in minute bin 15.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,15,final_third_entries,2,count,,,moderate,FCM produced 2.00 final third entries in minute bin 15.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,15,attacking_third_actions,13,count,,,high,FCK produced 13.00 attacking third actions in minute bin 15.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,15,box_entries,6,count,,,high,FCK produced 6.00 box entries in minute bin 15.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,15,shots,0,count,,,low,FCK produced 0.00 shots in minute bin 15.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,15,danger_entries,9,count,,,high,FCK produced 9.00 danger entries in minute bin 15.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,15,threat,0.72,index,,,dominant,FCK produced 0.72 threat in minute bin 15.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,15,final_third_entries,4,count,,,high,FCK produced 4.00 final third entries in minute bin 15.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,20,attacking_third_actions,32,count,,,high,FCK produced 32.00 attacking third actions in minute bin 20.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,20,box_entries,11,count,,,high,FCK produced 11.00 box entries in minute bin 20.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,20,shots,2,count,,,moderate,FCK produced 2.00 shots in minute bin 20.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,20,danger_entries,15,count,,,high,FCK produced 15.00 danger entries in minute bin 20.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,20,threat,1.3614,index,,,dominant,FCK produced 1.36 threat in minute bin 20.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,20,final_third_entries,11,count,,,high,FCK produced 11.00 final third entries in minute bin 20.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,20,attacking_third_actions,25,count,,,high,FCM produced 25.00 attacking third actions in minute bin 20.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,20,box_entries,9,count,,,high,FCM produced 9.00 box entries in minute bin 20.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,20,shots,0,count,,,low,FCM produced 0.00 shots in minute bin 20.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,20,danger_entries,12,count,,,high,FCM produced 12.00 danger entries in minute bin 20.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,20,threat,0.74,index,,,limited,FCM produced 0.74 threat in minute bin 20.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,20,final_third_entries,8,count,,,high,FCM produced 8.00 final third entries in minute bin 20.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,25,attacking_third_actions,30,count,,,high,FCM produced 30.00 attacking third actions in minute bin 25.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,25,box_entries,8,count,,,high,FCM produced 8.00 box entries in minute bin 25.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,25,shots,2,count,,,moderate,FCM produced 2.00 shots in minute bin 25.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,25,danger_entries,11,count,,,high,FCM produced 11.00 danger entries in minute bin 25.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,25,threat,0.3698,index,,,limited,FCM produced 0.37 threat in minute bin 25.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,25,final_third_entries,4,count,,,high,FCM produced 4.00 final third entries in minute bin 25.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,25,attacking_third_actions,28,count,,,high,FCK produced 28.00 attacking third actions in minute bin 25.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,25,box_entries,30,count,,,high,FCK produced 30.00 box entries in minute bin 25.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,25,shots,2,count,,,moderate,FCK produced 2.00 shots in minute bin 25.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,25,danger_entries,42,count,,,high,FCK produced 42.00 danger entries in minute bin 25.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,25,threat,4.0448,index,,,dominant,FCK produced 4.04 threat in minute bin 25.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,25,final_third_entries,31,count,,,high,FCK produced 31.00 final third entries in minute bin 25.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,30,attacking_third_actions,8,count,,,high,FCK produced 8.00 attacking third actions in minute bin 30.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,30,box_entries,6,count,,,high,FCK produced 6.00 box entries in minute bin 30.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,30,shots,3,count,,,high,FCK produced 3.00 shots in minute bin 30.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,30,danger_entries,10,count,,,high,FCK produced 10.00 danger entries in minute bin 30.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,30,threat,2.87,index,,,dominant,FCK produced 2.87 threat in minute bin 30.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,30,final_third_entries,5,count,,,high,FCK produced 5.00 final third entries in minute bin 30.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,30,attacking_third_actions,13,count,,,high,FCM produced 13.00 attacking third actions in minute bin 30.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,30,box_entries,14,count,,,high,FCM produced 14.00 box entries in minute bin 30.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,30,shots,4,count,,,high,FCM produced 4.00 shots in minute bin 30.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,30,danger_entries,15,count,,,high,FCM produced 15.00 danger entries in minute bin 30.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,30,threat,1.1308,index,,,limited,FCM produced 1.13 threat in minute bin 30.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,30,final_third_entries,6,count,,,high,FCM produced 6.00 final third entries in minute bin 30.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,35,attacking_third_actions,18,count,,,high,FCM produced 18.00 attacking third actions in minute bin 35.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,35,box_entries,9,count,,,high,FCM produced 9.00 box entries in minute bin 35.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,35,shots,4,count,,,high,FCM produced 4.00 shots in minute bin 35.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,35,danger_entries,13,count,,,high,FCM produced 13.00 danger entries in minute bin 35.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,35,threat,1.1538,index,,,dominant,FCM produced 1.15 threat in minute bin 35.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,35,final_third_entries,10,count,,,high,FCM produced 10.00 final third entries in minute bin 35.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,35,attacking_third_actions,3,count,,,high,FCK produced 3.00 attacking third actions in minute bin 35.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,35,box_entries,4,count,,,high,FCK produced 4.00 box entries in minute bin 35.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,35,shots,2,count,,,moderate,FCK produced 2.00 shots in minute bin 35.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,35,danger_entries,9,count,,,high,FCK produced 9.00 danger entries in minute bin 35.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,35,threat,0.7668,index,,,limited,FCK produced 0.77 threat in minute bin 35.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,35,final_third_entries,7,count,,,high,FCK produced 7.00 final third entries in minute bin 35.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,40,attacking_third_actions,29,count,,,high,FCM produced 29.00 attacking third actions in minute bin 40.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,40,box_entries,9,count,,,high,FCM produced 9.00 box entries in minute bin 40.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,40,shots,3,count,,,high,FCM produced 3.00 shots in minute bin 40.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,40,danger_entries,14,count,,,high,FCM produced 14.00 danger entries in minute bin 40.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,40,threat,0.7354,index,,,dominant,FCM produced 0.74 threat in minute bin 40.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,40,final_third_entries,6,count,,,high,FCM produced 6.00 final third entries in minute bin 40.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,40,attacking_third_actions,5,count,,,high,FCK produced 5.00 attacking third actions in minute bin 40.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,40,box_entries,2,count,,,moderate,FCK produced 2.00 box entries in minute bin 40.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,40,shots,0,count,,,low,FCK produced 0.00 shots in minute bin 40.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,40,danger_entries,5,count,,,high,FCK produced 5.00 danger entries in minute bin 40.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,40,threat,0.33,index,,,limited,FCK produced 0.33 threat in minute bin 40.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,40,final_third_entries,3,count,,,high,FCK produced 3.00 final third entries in minute bin 40.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,45,attacking_third_actions,45,count,,,high,FCM produced 45.00 attacking third actions in minute bin 45.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,45,box_entries,27,count,,,high,FCM produced 27.00 box entries in minute bin 45.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,45,shots,0,count,,,low,FCM produced 0.00 shots in minute bin 45.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,45,danger_entries,43,count,,,high,FCM produced 43.00 danger entries in minute bin 45.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,45,threat,2.53,index,,,dominant,FCM produced 2.53 threat in minute bin 45.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,45,final_third_entries,19,count,,,high,FCM produced 19.00 final third entries in minute bin 45.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,45,attacking_third_actions,23,count,,,high,FCK produced 23.00 attacking third actions in minute bin 45.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,45,box_entries,5,count,,,high,FCK produced 5.00 box entries in minute bin 45.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,45,shots,0,count,,,low,FCK produced 0.00 shots in minute bin 45.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,45,danger_entries,13,count,,,high,FCK produced 13.00 danger entries in minute bin 45.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,45,threat,0.79,index,,,limited,FCK produced 0.79 threat in minute bin 45.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,45,final_third_entries,9,count,,,high,FCK produced 9.00 final third entries in minute bin 45.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,50,attacking_third_actions,35,count,,,high,FCM produced 35.00 attacking third actions in minute bin 50.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,50,box_entries,23,count,,,high,FCM produced 23.00 box entries in minute bin 50.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,50,shots,3,count,,,high,FCM produced 3.00 shots in minute bin 50.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,50,danger_entries,24,count,,,high,FCM produced 24.00 danger entries in minute bin 50.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,50,threat,1.5073,index,,,dominant,FCM produced 1.51 threat in minute bin 50.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,50,final_third_entries,11,count,,,high,FCM produced 11.00 final third entries in minute bin 50.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,50,attacking_third_actions,18,count,,,high,FCK produced 18.00 attacking third actions in minute bin 50.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,50,box_entries,14,count,,,high,FCK produced 14.00 box entries in minute bin 50.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,50,shots,0,count,,,low,FCK produced 0.00 shots in minute bin 50.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,50,danger_entries,16,count,,,high,FCK produced 16.00 danger entries in minute bin 50.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,50,threat,0.6,index,,,limited,FCK produced 0.60 threat in minute bin 50.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,50,final_third_entries,2,count,,,moderate,FCK produced 2.00 final third entries in minute bin 50.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,55,attacking_third_actions,19,count,,,high,FCK produced 19.00 attacking third actions in minute bin 55.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,55,box_entries,6,count,,,high,FCK produced 6.00 box entries in minute bin 55.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,55,shots,2,count,,,moderate,FCK produced 2.00 shots in minute bin 55.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,55,danger_entries,7,count,,,high,FCK produced 7.00 danger entries in minute bin 55.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,55,threat,0.3872,index,,,limited,FCK produced 0.39 threat in minute bin 55.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,55,final_third_entries,1,count,,,moderate,FCK produced 1.00 final third entries in minute bin 55.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,55,attacking_third_actions,17,count,,,high,FCM produced 17.00 attacking third actions in minute bin 55.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,55,box_entries,11,count,,,high,FCM produced 11.00 box entries in minute bin 55.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,55,shots,2,count,,,moderate,FCM produced 2.00 shots in minute bin 55.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,55,danger_entries,14,count,,,high,FCM produced 14.00 danger entries in minute bin 55.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,55,threat,0.8824,index,,,dominant,FCM produced 0.88 threat in minute bin 55.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,55,final_third_entries,5,count,,,high,FCM produced 5.00 final third entries in minute bin 55.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,60,attacking_third_actions,20,count,,,high,FCM produced 20.00 attacking third actions in minute bin 60.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,60,box_entries,10,count,,,high,FCM produced 10.00 box entries in minute bin 60.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,60,shots,2,count,,,moderate,FCM produced 2.00 shots in minute bin 60.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,60,danger_entries,12,count,,,high,FCM produced 12.00 danger entries in minute bin 60.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,60,threat,1.0056,index,,,dominant,FCM produced 1.01 threat in minute bin 60.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,60,final_third_entries,7,count,,,high,FCM produced 7.00 final third entries in minute bin 60.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,60,attacking_third_actions,16,count,,,high,FCK produced 16.00 attacking third actions in minute bin 60.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,60,box_entries,5,count,,,high,FCK produced 5.00 box entries in minute bin 60.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,60,shots,0,count,,,low,FCK produced 0.00 shots in minute bin 60.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,60,danger_entries,7,count,,,high,FCK produced 7.00 danger entries in minute bin 60.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,60,threat,0.12,index,,,limited,FCK produced 0.12 threat in minute bin 60.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,60,final_third_entries,2,count,,,moderate,FCK produced 2.00 final third entries in minute bin 60.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,65,attacking_third_actions,46,count,,,high,FCM produced 46.00 attacking third actions in minute bin 65.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,65,box_entries,33,count,,,high,FCM produced 33.00 box entries in minute bin 65.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,65,shots,4,count,,,high,FCM produced 4.00 shots in minute bin 65.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,65,danger_entries,29,count,,,high,FCM produced 29.00 danger entries in minute bin 65.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,65,threat,2.2278,index,,,dominant,FCM produced 2.23 threat in minute bin 65.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,65,final_third_entries,9,count,,,high,FCM produced 9.00 final third entries in minute bin 65.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,65,attacking_third_actions,8,count,,,high,FCK produced 8.00 attacking third actions in minute bin 65.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,65,box_entries,5,count,,,high,FCK produced 5.00 box entries in minute bin 65.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,65,shots,0,count,,,low,FCK produced 0.00 shots in minute bin 65.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,65,danger_entries,6,count,,,high,FCK produced 6.00 danger entries in minute bin 65.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,65,threat,0.1,index,,,limited,FCK produced 0.10 threat in minute bin 65.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,65,final_third_entries,2,count,,,moderate,FCK produced 2.00 final third entries in minute bin 65.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,70,attacking_third_actions,6,count,,,high,FCM produced 6.00 attacking third actions in minute bin 70.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,70,box_entries,2,count,,,moderate,FCM produced 2.00 box entries in minute bin 70.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,70,shots,0,count,,,low,FCM produced 0.00 shots in minute bin 70.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,70,danger_entries,2,count,,,moderate,FCM produced 2.00 danger entries in minute bin 70.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,70,threat,0.16,index,,,limited,FCM produced 0.16 threat in minute bin 70.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,70,final_third_entries,0,count,,,low,FCM produced 0.00 final third entries in minute bin 70.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,70,attacking_third_actions,21,count,,,high,FCK produced 21.00 attacking third actions in minute bin 70.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,70,box_entries,4,count,,,high,FCK produced 4.00 box entries in minute bin 70.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,70,shots,0,count,,,low,FCK produced 0.00 shots in minute bin 70.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,70,danger_entries,13,count,,,high,FCK produced 13.00 danger entries in minute bin 70.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,70,threat,0.67,index,,,dominant,FCK produced 0.67 threat in minute bin 70.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,70,final_third_entries,9,count,,,high,FCK produced 9.00 final third entries in minute bin 70.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,75,attacking_third_actions,16,count,,,high,FCM produced 16.00 attacking third actions in minute bin 75.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,75,box_entries,14,count,,,high,FCM produced 14.00 box entries in minute bin 75.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,75,shots,4,count,,,high,FCM produced 4.00 shots in minute bin 75.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,75,danger_entries,19,count,,,high,FCM produced 19.00 danger entries in minute bin 75.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,75,threat,1.113,index,,,dominant,FCM produced 1.11 threat in minute bin 75.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,75,final_third_entries,9,count,,,high,FCM produced 9.00 final third entries in minute bin 75.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,75,attacking_third_actions,16,count,,,high,FCK produced 16.00 attacking third actions in minute bin 75.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,75,box_entries,4,count,,,high,FCK produced 4.00 box entries in minute bin 75.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,75,shots,0,count,,,low,FCK produced 0.00 shots in minute bin 75.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,75,danger_entries,6,count,,,high,FCK produced 6.00 danger entries in minute bin 75.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,75,threat,0.26,index,,,limited,FCK produced 0.26 threat in minute bin 75.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,75,final_third_entries,2,count,,,moderate,FCK produced 2.00 final third entries in minute bin 75.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,80,attacking_third_actions,13,count,,,high,FCK produced 13.00 attacking third actions in minute bin 80.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,80,box_entries,6,count,,,high,FCK produced 6.00 box entries in minute bin 80.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,80,shots,0,count,,,low,FCK produced 0.00 shots in minute bin 80.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,80,danger_entries,7,count,,,high,FCK produced 7.00 danger entries in minute bin 80.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,80,threat,0.11,index,,,limited,FCK produced 0.11 threat in minute bin 80.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,80,final_third_entries,1,count,,,moderate,FCK produced 1.00 final third entries in minute bin 80.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,80,attacking_third_actions,25,count,,,high,FCM produced 25.00 attacking third actions in minute bin 80.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,80,box_entries,18,count,,,high,FCM produced 18.00 box entries in minute bin 80.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,80,shots,2,count,,,moderate,FCM produced 2.00 shots in minute bin 80.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,80,danger_entries,24,count,,,high,FCM produced 24.00 danger entries in minute bin 80.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,80,threat,1.868,index,,,dominant,FCM produced 1.87 threat in minute bin 80.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,80,final_third_entries,14,count,,,high,FCM produced 14.00 final third entries in minute bin 80.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,85,attacking_third_actions,28,count,,,high,FCK produced 28.00 attacking third actions in minute bin 85.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,85,box_entries,11,count,,,high,FCK produced 11.00 box entries in minute bin 85.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,85,shots,5,count,,,high,FCK produced 5.00 shots in minute bin 85.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,85,danger_entries,17,count,,,high,FCK produced 17.00 danger entries in minute bin 85.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,85,threat,0.9239,index,,,dominant,FCK produced 0.92 threat in minute bin 85.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,85,final_third_entries,8,count,,,high,FCK produced 8.00 final third entries in minute bin 85.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,85,attacking_third_actions,8,count,,,high,FCM produced 8.00 attacking third actions in minute bin 85.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,85,box_entries,0,count,,,low,FCM produced 0.00 box entries in minute bin 85.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,85,shots,0,count,,,low,FCM produced 0.00 shots in minute bin 85.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,85,danger_entries,3,count,,,high,FCM produced 3.00 danger entries in minute bin 85.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,85,threat,0.23,index,,,limited,FCM produced 0.23 threat in minute bin 85.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,85,final_third_entries,3,count,,,high,FCM produced 3.00 final third entries in minute bin 85.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,90,attacking_third_actions,39,count,,,high,FCK produced 39.00 attacking third actions in minute bin 90.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,90,box_entries,10,count,,,high,FCK produced 10.00 box entries in minute bin 90.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,90,shots,3,count,,,high,FCK produced 3.00 shots in minute bin 90.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,90,danger_entries,11,count,,,high,FCK produced 11.00 danger entries in minute bin 90.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,90,threat,0.9019,index,,,edge,FCK produced 0.90 threat in minute bin 90.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,90,final_third_entries,3,count,,,high,FCK produced 3.00 final third entries in minute bin 90.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,90,attacking_third_actions,19,count,,,high,FCM produced 19.00 attacking third actions in minute bin 90.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,90,box_entries,5,count,,,high,FCM produced 5.00 box entries in minute bin 90.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,90,shots,0,count,,,low,FCM produced 0.00 shots in minute bin 90.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,90,danger_entries,13,count,,,high,FCM produced 13.00 danger entries in minute bin 90.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,90,threat,0.71,index,,,balanced,FCM produced 0.71 threat in minute bin 90.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,90,final_third_entries,7,count,,,high,FCM produced 7.00 final third entries in minute bin 90.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,95,attacking_third_actions,3,count,,,high,FCK produced 3.00 attacking third actions in minute bin 95.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,95,box_entries,1,count,,,moderate,FCK produced 1.00 box entries in minute bin 95.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,95,shots,2,count,,,moderate,FCK produced 2.00 shots in minute bin 95.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,95,danger_entries,1,count,,,moderate,FCK produced 1.00 danger entries in minute bin 95.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,95,threat,0.2724,index,,,dominant,FCK produced 0.27 threat in minute bin 95.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,95,final_third_entries,0,count,,,low,FCK produced 0.00 final third entries in minute bin 95.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,95,attacking_third_actions,0,count,,,low,FCM produced 0.00 attacking third actions in minute bin 95.,Territory & Control,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,95,box_entries,0,count,,,low,FCM produced 0.00 box entries in minute bin 95.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,95,shots,0,count,,,low,FCM produced 0.00 shots in minute bin 95.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,95,danger_entries,0,count,,,low,FCM produced 0.00 danger entries in minute bin 95.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,95,threat,0.04,index,,,limited,FCM produced 0.04 threat in minute bin 95.,Chance Creation & Final Third,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,95,final_third_entries,0,count,,,low,FCM produced 0.00 final third entries in minute bin 95.,Executive Match Overview,dual-axis timeline,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,0,field_tilt,0.4545,share,,,balanced,FCK owned 45.5% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,0,field_tilt,0.5455,share,,,edge,FCM owned 54.5% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,5,field_tilt,0.6053,share,,,dominant,FCM owned 60.5% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,5,field_tilt,0.3947,share,,,limited,FCK owned 39.5% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,10,field_tilt,0.475,share,,,balanced,FCK owned 47.5% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,10,field_tilt,0.525,share,,,balanced,FCM owned 52.5% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,15,field_tilt,0.5517,share,,,edge,FCM owned 55.2% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,15,field_tilt,0.4483,share,,,balanced,FCK owned 44.8% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,20,field_tilt,0.5614,share,,,edge,FCK owned 56.1% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,20,field_tilt,0.4386,share,,,balanced,FCM owned 43.9% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,25,field_tilt,0.5172,share,,,balanced,FCM owned 51.7% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,25,field_tilt,0.4828,share,,,balanced,FCK owned 48.3% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,30,field_tilt,0.381,share,,,limited,FCK owned 38.1% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,30,field_tilt,0.619,share,,,dominant,FCM owned 61.9% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,35,field_tilt,0.8571,share,,,dominant,FCM owned 85.7% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,35,field_tilt,0.1429,share,,,limited,FCK owned 14.3% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,40,field_tilt,0.8529,share,,,dominant,FCM owned 85.3% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,40,field_tilt,0.1471,share,,,limited,FCK owned 14.7% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,45,field_tilt,0.6618,share,,,dominant,FCM owned 66.2% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,45,field_tilt,0.3382,share,,,limited,FCK owned 33.8% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,50,field_tilt,0.6604,share,,,dominant,FCM owned 66.0% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,50,field_tilt,0.3396,share,,,limited,FCK owned 34.0% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,55,field_tilt,0.5278,share,,,balanced,FCK owned 52.8% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,55,field_tilt,0.4722,share,,,balanced,FCM owned 47.2% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,60,field_tilt,0.5556,share,,,edge,FCM owned 55.6% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,60,field_tilt,0.4444,share,,,balanced,FCK owned 44.4% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,65,field_tilt,0.8519,share,,,dominant,FCM owned 85.2% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,65,field_tilt,0.1481,share,,,limited,FCK owned 14.8% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,70,field_tilt,0.2222,share,,,limited,FCM owned 22.2% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,70,field_tilt,0.7778,share,,,dominant,FCK owned 77.8% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,75,field_tilt,0.5,share,,,balanced,FCM owned 50.0% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,75,field_tilt,0.5,share,,,balanced,FCK owned 50.0% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,80,field_tilt,0.3421,share,,,limited,FCK owned 34.2% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,80,field_tilt,0.6579,share,,,dominant,FCM owned 65.8% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,85,field_tilt,0.7778,share,,,dominant,FCK owned 77.8% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,85,field_tilt,0.2222,share,,,limited,FCM owned 22.2% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,90,field_tilt,0.6724,share,,,dominant,FCK owned 67.2% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,90,field_tilt,0.3276,share,,,limited,FCM owned 32.8% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,95,field_tilt,1,share,,,dominant,FCK owned 100.0% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,95,field_tilt,0,share,,,limited,FCM owned 0.0% of attacking-third actions in this five-minute window.,Territory & Control,dual-axis timeline,high

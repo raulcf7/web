@@ -1,0 +1,117 @@
+match_id,team,opponent,period,minute_bin,metric_name,metric_value,metric_unit,zone,channel,interpretation_label,insight_text,dashboard_section,recommended_chart_type,priority_level
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,total_actions,1410,count,,,,FCK period 1: total actions = 1410.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,attacking_third_actions,141,count,,,balanced,FCK period 1: attacking third actions = 141.00.,Territory & Control,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,final_third_entries,105,count,,,,FCK period 1: final third entries = 105.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,box_entries,77,count,,,,FCK period 1: box entries = 77.00.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,average_action_height,-8.3521,meters,,,,FCK period 1: average action height = -8.35.,Territory & Control,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,progressive_passes,46,count,,,,FCK period 1: progressive passes = 46.00.,Territory & Control,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,progressive_carries,56,count,,,,FCK period 1: progressive carries = 56.00.,Territory & Control,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,vertical_distance_gained,8415.41,meters,,,,FCK period 1: vertical distance gained = 8415.41.,Territory & Control,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,final_third_passes,44,count,,,,FCK period 1: final third passes = 44.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,completed_final_third_entries,12,count,,,,FCK period 1: completed final third entries = 12.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,directness_index,0.2433,count,,,,FCK period 1: directness index = 0.24.,Territory & Control,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,avg_sequence_length,11.8487,count,,,,FCK period 1: avg sequence length = 11.85.,Territory & Control,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,shots,13,count,,,,FCK period 1: shots = 13.00.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,shots_on_target,1,count,,,,FCK period 1: shots on target = 1.00.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,shots_from_box,4,count,,,,FCK period 1: shots from box = 4.00.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,key_passes,0,count,,,,FCK period 1: key passes = 0.00.,Chance Creation & Final Third,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,danger_entries,151,count,,,,FCK period 1: danger entries = 151.00.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,threat,14.6714,index,,,,FCK period 1: threat = 14.67.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,threat_per_possession,0.1233,index,,,,FCK period 1: threat per possession = 0.12.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,threat_per_attacking_action,0.1041,index,,,,FCK period 1: threat per attacking action = 0.10.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,recoveries,90,count,,,,FCK period 1: recoveries = 90.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,interceptions,78,count,,,,FCK period 1: interceptions = 78.00.,Defensive Behaviour & Transitions,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,tackles,24,count,,,,FCK period 1: tackles = 24.00.,Defensive Behaviour & Transitions,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,high_recoveries,15,count,,,,FCK period 1: high recoveries = 15.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,dangerous_losses,42,count,,,,FCK period 1: dangerous losses = 42.00.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,fast_attacks,30,count,,,,FCK period 1: fast attacks = 30.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,total_actions,1356,count,,,,FCM period 1: total actions = 1356.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,attacking_third_actions,194,count,,,edge,FCM period 1: attacking third actions = 194.00.,Territory & Control,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,final_third_entries,58,count,,,,FCM period 1: final third entries = 58.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,box_entries,75,count,,,,FCM period 1: box entries = 75.00.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,average_action_height,-2.1432,meters,,,,FCM period 1: average action height = -2.14.,Territory & Control,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,progressive_passes,12,count,,,,FCM period 1: progressive passes = 12.00.,Territory & Control,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,progressive_carries,3,count,,,,FCM period 1: progressive carries = 3.00.,Territory & Control,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,vertical_distance_gained,3374.45,meters,,,,FCM period 1: vertical distance gained = 3374.45.,Territory & Control,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,final_third_passes,31,count,,,,FCM period 1: final third passes = 31.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,completed_final_third_entries,17,count,,,,FCM period 1: completed final third entries = 17.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,directness_index,0.2548,count,,,,FCM period 1: directness index = 0.25.,Territory & Control,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,avg_sequence_length,11.3,count,,,,FCM period 1: avg sequence length = 11.30.,Territory & Control,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,shots,15,count,,,,FCM period 1: shots = 15.00.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,shots_on_target,3,count,,,,FCM period 1: shots on target = 3.00.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,shots_from_box,0,count,,,,FCM period 1: shots from box = 0.00.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,key_passes,0,count,,,,FCM period 1: key passes = 0.00.,Chance Creation & Final Third,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,danger_entries,103,count,,,,FCM period 1: danger entries = 103.00.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,threat,6.919,index,,,,FCM period 1: threat = 6.92.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,threat_per_possession,0.0577,index,,,,FCM period 1: threat per possession = 0.06.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,threat_per_attacking_action,0.0357,index,,,,FCM period 1: threat per attacking action = 0.04.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,recoveries,101,count,,,,FCM period 1: recoveries = 101.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,interceptions,87,count,,,,FCM period 1: interceptions = 87.00.,Defensive Behaviour & Transitions,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,tackles,29,count,,,,FCM period 1: tackles = 29.00.,Defensive Behaviour & Transitions,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,high_recoveries,25,count,,,,FCM period 1: high recoveries = 25.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,dangerous_losses,41,count,,,,FCM period 1: dangerous losses = 41.00.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,fast_attacks,24,count,,,,FCM period 1: fast attacks = 24.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,total_actions,1220,count,,,,FCM period 2: total actions = 1220.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,attacking_third_actions,236,count,,,edge,FCM period 2: attacking third actions = 236.00.,Territory & Control,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,final_third_entries,84,count,,,,FCM period 2: final third entries = 84.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,box_entries,142,count,,,,FCM period 2: box entries = 142.00.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,average_action_height,3.3504,meters,,,,FCM period 2: average action height = 3.35.,Territory & Control,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,progressive_passes,26,count,,,,FCM period 2: progressive passes = 26.00.,Territory & Control,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,progressive_carries,39,count,,,,FCM period 2: progressive carries = 39.00.,Territory & Control,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,vertical_distance_gained,6046.9,meters,,,,FCM period 2: vertical distance gained = 6046.90.,Territory & Control,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,final_third_passes,70,count,,,,FCM period 2: final third passes = 70.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,completed_final_third_entries,13,count,,,,FCM period 2: completed final third entries = 13.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,directness_index,0.2362,count,,,,FCM period 2: directness index = 0.24.,Territory & Control,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,avg_sequence_length,11.619,count,,,,FCM period 2: avg sequence length = 11.62.,Territory & Control,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,shots,17,count,,,,FCM period 2: shots = 17.00.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,shots_on_target,2,count,,,,FCM period 2: shots on target = 2.00.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,shots_from_box,4,count,,,,FCM period 2: shots from box = 4.00.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,key_passes,0,count,,,,FCM period 2: key passes = 0.00.,Chance Creation & Final Third,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,danger_entries,182,count,,,,FCM period 2: danger entries = 182.00.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,threat,12.2741,index,,,,FCM period 2: threat = 12.27.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,threat_per_possession,0.1169,index,,,,FCM period 2: threat per possession = 0.12.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,threat_per_attacking_action,0.052,index,,,,FCM period 2: threat per attacking action = 0.05.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,recoveries,80,count,,,,FCM period 2: recoveries = 80.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,interceptions,70,count,,,,FCM period 2: interceptions = 70.00.,Defensive Behaviour & Transitions,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,tackles,24,count,,,,FCM period 2: tackles = 24.00.,Defensive Behaviour & Transitions,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,high_recoveries,26,count,,,,FCM period 2: high recoveries = 26.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,dangerous_losses,40,count,,,,FCM period 2: dangerous losses = 40.00.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,fast_attacks,17,count,,,,FCM period 2: fast attacks = 17.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,total_actions,1236,count,,,,FCK period 2: total actions = 1236.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,attacking_third_actions,201,count,,,balanced,FCK period 2: attacking third actions = 201.00.,Territory & Control,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,final_third_entries,30,count,,,,FCK period 2: final third entries = 30.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,box_entries,69,count,,,,FCK period 2: box entries = 69.00.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,average_action_height,-4.6088,meters,,,,FCK period 2: average action height = -4.61.,Territory & Control,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,progressive_passes,17,count,,,,FCK period 2: progressive passes = 17.00.,Territory & Control,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,progressive_carries,3,count,,,,FCK period 2: progressive carries = 3.00.,Territory & Control,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,vertical_distance_gained,3214.16,meters,,,,FCK period 2: vertical distance gained = 3214.16.,Territory & Control,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,final_third_passes,38,count,,,,FCK period 2: final third passes = 38.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,completed_final_third_entries,10,count,,,,FCK period 2: completed final third entries = 10.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,directness_index,0.2437,count,,,,FCK period 2: directness index = 0.24.,Territory & Control,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,avg_sequence_length,11.7714,count,,,,FCK period 2: avg sequence length = 11.77.,Territory & Control,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,shots,12,count,,,,FCK period 2: shots = 12.00.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,shots_on_target,1,count,,,,FCK period 2: shots on target = 1.00.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,shots_from_box,0,count,,,,FCK period 2: shots from box = 0.00.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,key_passes,0,count,,,,FCK period 2: key passes = 0.00.,Chance Creation & Final Third,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,danger_entries,94,count,,,,FCK period 2: danger entries = 94.00.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,threat,4.4254,index,,,,FCK period 2: threat = 4.43.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,threat_per_possession,0.0421,index,,,,FCK period 2: threat per possession = 0.04.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,threat_per_attacking_action,0.022,index,,,,FCK period 2: threat per attacking action = 0.02.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,recoveries,69,count,,,,FCK period 2: recoveries = 69.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,interceptions,59,count,,,,FCK period 2: interceptions = 59.00.,Defensive Behaviour & Transitions,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,tackles,19,count,,,,FCK period 2: tackles = 19.00.,Defensive Behaviour & Transitions,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,high_recoveries,25,count,,,,FCK period 2: high recoveries = 25.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,dangerous_losses,42,count,,,,FCK period 2: dangerous losses = 42.00.,Chance Creation & Final Third,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,fast_attacks,23,count,,,,FCK period 2: fast attacks = 23.00.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,possession_proxy,0.5098,share,,,balanced,FCK held a 51.0% action-share possession proxy in this period.,Territory & Control,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,possession_proxy,0.4902,share,,,balanced,FCM held a 49.0% action-share possession proxy in this period.,Territory & Control,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,possession_proxy,0.4967,share,,,balanced,FCM held a 49.7% action-share possession proxy in this period.,Territory & Control,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,possession_proxy,0.5033,share,,,balanced,FCK held a 50.3% action-share possession proxy in this period.,Territory & Control,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,field_tilt,0.4209,share,,,balanced,FCK owned 42.1% of attacking-third actions in this period.,Territory & Control,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,field_tilt,0.5791,share,,,edge,FCM owned 57.9% of attacking-third actions in this period.,Territory & Control,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,field_tilt,0.54,share,,,edge,FCM owned 54.0% of attacking-third actions in this period.,Territory & Control,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,field_tilt,0.46,share,,,balanced,FCK owned 46.0% of attacking-third actions in this period.,Territory & Control,grouped bar chart,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,1,,territorial_dominance_by_period,0.4209,count,,,balanced,FCK recorded a 42.1% territorial dominance score for this period.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,1,,territorial_dominance_by_period,0.5791,count,,,edge,FCM recorded a 57.9% territorial dominance score for this period.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,2,,territorial_dominance_by_period,0.54,count,,,edge,FCM recorded a 54.0% territorial dominance score for this period.,Executive Match Overview,grouped bar chart,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,2,,territorial_dominance_by_period,0.46,count,,,balanced,FCK recorded a 46.0% territorial dominance score for this period.,Executive Match Overview,grouped bar chart,medium

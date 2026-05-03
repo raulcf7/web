@@ -1,0 +1,63 @@
+match_id,team,opponent,period,minute_bin,metric_name,metric_value,metric_unit,zone,channel,interpretation_label,insight_text,dashboard_section,recommended_chart_type,priority_level
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,total_actions,2646,count,,,balanced,FCK recorded 2646.00 for total actions.,Executive Match Overview,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,attacking_third_actions,342,count,,,balanced,FCK recorded 342.00 for attacking third actions.,Territory & Control,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,final_third_entries,135,count,,,,FCK recorded 135.00 for final third entries.,Executive Match Overview,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,box_entries,146,count,,,,FCK recorded 146.00 for box entries.,Chance Creation & Final Third,KPI card,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,average_action_height,-6.5935,meters,,,,FCK recorded -6.59 for average action height.,Territory & Control,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,progressive_passes,63,count,,,,FCK recorded 63.00 for progressive passes.,Territory & Control,KPI card,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,progressive_carries,59,count,,,,FCK recorded 59.00 for progressive carries.,Territory & Control,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,vertical_distance_gained,11629.57,meters,,,,FCK recorded 11629.57 for vertical distance gained.,Territory & Control,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,final_third_passes,82,count,,,,FCK recorded 82.00 for final third passes.,Executive Match Overview,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,completed_final_third_entries,22,count,,,,FCK recorded 22.00 for completed final third entries.,Executive Match Overview,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,directness_index,0.2435,count,,,,FCK recorded 0.24 for directness index.,Territory & Control,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,avg_sequence_length,11.8125,count,,,,FCK recorded 11.81 for avg sequence length.,Territory & Control,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,shots,25,count,,,,FCK recorded 25.00 for shots.,Chance Creation & Final Third,KPI card,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,shots_on_target,2,count,,,,FCK recorded 2.00 for shots on target.,Chance Creation & Final Third,KPI card,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,shots_from_box,4,count,,,,FCK recorded 4.00 for shots from box.,Chance Creation & Final Third,KPI card,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,key_passes,0,count,,,,FCK recorded 0.00 for key passes.,Chance Creation & Final Third,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,danger_entries,245,count,,,,FCK recorded 245.00 for danger entries.,Chance Creation & Final Third,KPI card,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,threat,19.0968,index,,,balanced,FCK recorded 19.10 for threat.,Chance Creation & Final Third,KPI card,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,threat_per_possession,0.0853,index,,,,FCK recorded 0.09 for threat per possession.,Chance Creation & Final Third,share bar,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,threat_per_attacking_action,0.0558,index,,,,FCK recorded 0.06 for threat per attacking action.,Chance Creation & Final Third,KPI card,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,recoveries,159,count,,,,FCK recorded 159.00 for recoveries.,Executive Match Overview,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,interceptions,137,count,,,,FCK recorded 137.00 for interceptions.,Defensive Behaviour & Transitions,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,tackles,43,count,,,,FCK recorded 43.00 for tackles.,Defensive Behaviour & Transitions,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,high_recoveries,40,count,,,,FCK recorded 40.00 for high recoveries.,Executive Match Overview,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,dangerous_losses,84,count,,,,FCK recorded 84.00 for dangerous losses.,Chance Creation & Final Third,KPI card,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,fast_attacks,53,count,,,,FCK recorded 53.00 for fast attacks.,Executive Match Overview,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,recoveries_followed_by_final_third_entry,74,count,,,high,FCK had 74 transition moments for recoveries followed by final third entry.,Territory & Control,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,losses_punished_by_opponent_shot_or_box_entry,46,count,,,high,FCK had 46 transition moments for losses punished by opponent shot or box entry.,Chance Creation & Final Third,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,recoveries_followed_by_shot,8,count,,,high,FCK had 8 transition moments for recoveries followed by shot.,Chance Creation & Final Third,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,total_actions,2576,count,,,balanced,FCM recorded 2576.00 for total actions.,Executive Match Overview,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,attacking_third_actions,430,count,,,edge,FCM recorded 430.00 for attacking third actions.,Territory & Control,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,final_third_entries,142,count,,,,FCM recorded 142.00 for final third entries.,Executive Match Overview,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,box_entries,217,count,,,,FCM recorded 217.00 for box entries.,Chance Creation & Final Third,KPI card,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,average_action_height,0.4224,meters,,,,FCM recorded 0.42 for average action height.,Territory & Control,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,progressive_passes,38,count,,,,FCM recorded 38.00 for progressive passes.,Territory & Control,KPI card,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,progressive_carries,42,count,,,,FCM recorded 42.00 for progressive carries.,Territory & Control,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,vertical_distance_gained,9421.35,meters,,,,FCM recorded 9421.35 for vertical distance gained.,Territory & Control,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,final_third_passes,101,count,,,,FCM recorded 101.00 for final third passes.,Executive Match Overview,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,completed_final_third_entries,30,count,,,,FCM recorded 30.00 for completed final third entries.,Executive Match Overview,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,directness_index,0.2459,count,,,,FCM recorded 0.25 for directness index.,Territory & Control,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,avg_sequence_length,11.4489,count,,,,FCM recorded 11.45 for avg sequence length.,Territory & Control,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,shots,32,count,,,,FCM recorded 32.00 for shots.,Chance Creation & Final Third,KPI card,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,shots_on_target,5,count,,,,FCM recorded 5.00 for shots on target.,Chance Creation & Final Third,KPI card,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,shots_from_box,4,count,,,,FCM recorded 4.00 for shots from box.,Chance Creation & Final Third,KPI card,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,key_passes,0,count,,,,FCM recorded 0.00 for key passes.,Chance Creation & Final Third,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,danger_entries,285,count,,,,FCM recorded 285.00 for danger entries.,Chance Creation & Final Third,KPI card,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,threat,19.1931,index,,,balanced,FCM recorded 19.19 for threat.,Chance Creation & Final Third,KPI card,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,threat_per_possession,0.0853,index,,,,FCM recorded 0.09 for threat per possession.,Chance Creation & Final Third,share bar,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,threat_per_attacking_action,0.0446,index,,,,FCM recorded 0.04 for threat per attacking action.,Chance Creation & Final Third,KPI card,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,recoveries,181,count,,,,FCM recorded 181.00 for recoveries.,Executive Match Overview,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,interceptions,157,count,,,,FCM recorded 157.00 for interceptions.,Defensive Behaviour & Transitions,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,tackles,53,count,,,,FCM recorded 53.00 for tackles.,Defensive Behaviour & Transitions,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,high_recoveries,51,count,,,,FCM recorded 51.00 for high recoveries.,Executive Match Overview,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,dangerous_losses,81,count,,,,FCM recorded 81.00 for dangerous losses.,Chance Creation & Final Third,KPI card,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,fast_attacks,41,count,,,,FCM recorded 41.00 for fast attacks.,Executive Match Overview,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,recoveries_followed_by_final_third_entry,115,count,,,high,FCM had 115 transition moments for recoveries followed by final third entry.,Territory & Control,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,losses_punished_by_opponent_shot_or_box_entry,37,count,,,high,FCM had 37 transition moments for losses punished by opponent shot or box entry.,Chance Creation & Final Third,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,recoveries_followed_by_shot,12,count,,,high,FCM had 12 transition moments for recoveries followed by shot.,Chance Creation & Final Third,KPI card,medium
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,possession_proxy,0.5067,share,,,balanced,FCK held a 50.7% action-share possession proxy across the match.,Territory & Control,share bar,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,possession_proxy,0.4933,share,,,balanced,FCM held a 49.3% action-share possession proxy across the match.,Territory & Control,share bar,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCK,FCM,,,field_tilt,0.443,share,,,balanced,"FCK owned 44.3% of attacking-third actions, a territory proxy for field tilt.",Territory & Control,share bar,high
+8cfdb681-32cf-4ebf-81f1-5c0839ec82d5,FCM,FCK,,,field_tilt,0.557,share,,,edge,"FCM owned 55.7% of attacking-third actions, a territory proxy for field tilt.",Territory & Control,share bar,high
